@@ -1,0 +1,198 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "c9bfa4d8-9e31-4264-aa26-966b33e55ec7")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 25.4 63.5)
+		(size 50.8 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "526c55be-e591-47e7-af5f-046b6ea0eb81")
+		(property "Sheetname" "POWER_BLOCK"
+			(at 25.4 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER_BLOCK.kicad_sch"
+			(at 25.4 102.1846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dbmk1"
+				(path "/c9bfa4d8-9e31-4264-aa26-966b33e55ec7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 63.5)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6a06b35f-6125-42eb-b377-6a38f4897caf")
+		(property "Sheetname" "CONNECTOR_BLOCK"
+			(at 215.9 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CONNECTOR_BLOCK.kicad_sch"
+			(at 215.9 102.1846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dbmk1"
+				(path "/c9bfa4d8-9e31-4264-aa26-966b33e55ec7"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 63.5)
+		(size 50.8 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "cfd4ea8c-6971-4e4c-8c3f-d7dbacc0c065")
+		(property "Sheetname" "INTERFACE_BLOCK"
+			(at 152.4 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPU_BLOCK.sch.kicad_sch"
+			(at 152.4 102.1846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dbmk1"
+				(path "/c9bfa4d8-9e31-4264-aa26-966b33e55ec7"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 63.5)
+		(size 50.8 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f7c6d6a1-657d-45bf-a3f7-94071353bf04")
+		(property "Sheetname" "CPU_BLOCK"
+			(at 88.9 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPU_BLOCK.kicad_sch"
+			(at 88.9 102.1846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dbmk1"
+				(path "/c9bfa4d8-9e31-4264-aa26-966b33e55ec7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
