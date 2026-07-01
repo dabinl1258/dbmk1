@@ -3212,7 +3212,7 @@
 				(justify right)
 			)
 		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32f103rb.pdf"
+		(property "Datasheet" "kicad-embed://stm32f103c8.pdf"
 			(at 158.75 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -3634,7 +3634,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "file:///home/dabin/work/dbmk1/datasheets/1SS404.pdf"
 			(at 54.61 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -4444,7 +4444,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "file:///home/dabin/work/dbmk1/datasheets/1SS404.pdf"
 			(at 54.61 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -4524,7 +4524,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "file:///home/dabin/work/dbmk1/datasheets/1SS404.pdf"
 			(at 54.61 63.5 0)
 			(hide yes)
 			(show_name no)

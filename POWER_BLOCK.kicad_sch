@@ -1606,7 +1606,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lp5907.pdf"
+		(property "Datasheet" "kicad-embed://lp5907.pdf"
 			(at 86.36 26.67 0)
 			(hide yes)
 			(show_name no)
